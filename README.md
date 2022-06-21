@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Luc45kraus
+- 👀 I’m interested in  aprender a programar
+- Estou interressado em aprender novas lingusagens
