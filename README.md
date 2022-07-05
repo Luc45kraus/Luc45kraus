@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Luc45kraus
-- 👀 I’m interested in  aprender a programar
-- Estou interressado em aprender novas lingusagens
+- oi eu sou @Luc45kraus
+- eu estou interressado em aprender a programar
+- Estou interessado em aprender novas linguagens
